@@ -1,0 +1,80 @@
+<Job>
+  <Id>test-job-123</Id>
+  <WorkflowId>workflow-456</WorkflowId>
+  <TaskKey>task_optimize_1</TaskKey>
+  <Symbol>@NQ</Symbol>
+  <Timeframe>60</Timeframe>
+  <Version>1</Version>
+  <pyramidMode>None</pyramidMode>
+  <interestRate>2.0</interestRate>
+  <slippageType>Fixed per Contract/Share</slippageType>
+  <enableIOGLIBB>true</enableIOGLIBB>
+  <minFillTrades>5.0</minFillTrades>
+  <minFillVolume>5000.0</minFillVolume>
+  <commissionType>Fixed per Contract/Share</commissionType>
+  <initialCapital>100000</initialCapital>
+  <maxPositionSize>65000</maxPositionSize>
+  <noOfTestsToKeep>500</noOfTestsToKeep>
+  <maxPyramidEntries>50</maxPyramidEntries>
+  <limitOrderFillType>Price Limit</limitOrderFillType>
+  <marketOrderSlippage>0.0</marketOrderSlippage>
+  <defaultTradeSizeType>Fixed Unit</defaultTradeSizeType>
+  <tradeSizeFixedAmount>1</tradeSizeFixedAmount>
+  <tradeSizeDollarAmount>10000.0</tradeSizeDollarAmount>
+  <timezone>Exchange</timezone>
+  <volumeUse>Trade Volume</volumeUse>
+  <generation>50</generation>
+  <population>200</population>
+  <barBuilding>Session Hours</barBuilding>
+  <maxBarsBack>250</maxBarsBack>
+  <chartSession>Regular Session</chartSession>
+  <mutationRate>0.05</mutationRate>
+  <crossoverRate>0.9</crossoverRate>
+  <stressTestSize>1</stressTestSize>
+  <fitnessFunction>NPDD</fitnessFunction>
+  <includeCommission>Yes</includeCommission>
+  <slippageMultiplier>0</slippageMultiplier>
+  <stressTestIncrement>10</stressTestIncrement>
+  <earlyExitGenerations>10</earlyExitGenerations>
+  <highPrecisionTesting>No</highPrecisionTesting>
+  <backtestingResolutionMin>5</backtestingResolutionMin>
+  <stage>Optimize</stage>
+  <startDate>2019-07-31</startDate>
+  <endDate>12/31/2022</endDate>
+  <population>500</population>
+  <overrideSettings>Yes</overrideSettings>
+  <highPrecisionMinutes>5</highPrecisionMinutes>
+  <optimizableParameters>[&quot;iFastMAPeriod&quot;,&quot;iSlowMAPeriod&quot;]</optimizableParameters>
+  <task_id>optimize-1754985126122</task_id>
+  <strategy_name>!!Better Breakout V3</strategy_name>
+  <platform>TradeStation</platform>
+  <parameters>
+  <iFastMAPeriod>
+    <start>10</start>
+    <end>50</end>
+    <step>5</step>
+    <value>20</value>
+    <param_type>OptRange</param_type>
+  </iFastMAPeriod>
+  <iSlowMAPeriod>
+    <start>50</start>
+    <end>100</end>
+    <step>5</step>
+    <value>50</value>
+    <param_type>OptRange</param_type>
+  </iSlowMAPeriod>
+  <iStoploss>
+    <value>0</value>
+    <param_type>Fixed</param_type>
+  </iStoploss>
+  <iDailyMaxTrades>
+    <value>1</value>
+    <param_type>Fixed</param_type>
+  </iDailyMaxTrades>
+  </parameters>
+  <data_streams>
+    <item>      <market></market>
+      <timeframe>60</timeframe></item>
+  </data_streams>
+</Job>
+

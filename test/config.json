@@ -1,0 +1,36 @@
+{
+  "supabase": {
+    "url": "https://rnatsdjhwquhavnnybck.supabase.co",
+    "anon_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJuYXRzZGpod3F1aGF2bm55YmNrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTA5MTQ1OTksImV4cCI6MjA2NjQ5MDU5OX0.bvhOWAd0FBgkpof90SECewkl8pgOOeJyztTdrYqa2G8",
+    "project_id": "rnatsdjhwquhavnnybck"
+  },
+  "auth": {
+    "email": "",
+    "password": ""
+  },
+  "download": {
+    "folder": "D:\\Github\\alpha-weaver-craft\\clientgui\\test\\downloads",
+    "max_concurrent": 3,
+    "retry_attempts": 3,
+    "retry_delay": 1000,
+    "upload_folder": "D:\\Github\\alpha-weaver-craft\\clientgui\\test\\upload"
+  },
+  "poll": {
+    "limit": 10,
+    "interval": 300000,
+    "max_interval": 1800000,
+    "min_interval": 300000,
+    "max_jobs": 50,
+    "adaptive": true,
+    "remaining_jobs_threshold": 3,
+    "exponential_backoff": {
+      "enabled": true,
+      "factor": 1.5,
+      "max_empty_polls": 3
+    }
+  },
+  "logging": {
+    "level": "info",
+    "file": "D:\\Github\\alpha-weaver-craft\\clientgui\\test\\logs\\client.log"
+  }
+}

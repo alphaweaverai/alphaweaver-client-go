@@ -1,0 +1,482 @@
+[2025-08-14 13:44:37] INFO: Authentication successful
+[2025-08-14 13:45:05] INFO: Starting job and CSV monitoring...
+[2025-08-14 13:45:05] INFO: CSV monitoring started
+[2025-08-14 13:45:05] INFO: Daemon iteration 1
+[2025-08-14 13:45:09] INFO: Remaining jobs: 0
+[2025-08-14 13:45:09] INFO: Downloading 4 jobs...
+[2025-08-14 13:45:10] INFO: Download complete: 4 successful, 0 failed
+[2025-08-14 13:45:10] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, Jobs available and remaining ≤3: 0 - polling every 5 minutes)
+[2025-08-14 13:45:10] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 13:45:40] INFO: Daemon iteration 2
+[2025-08-14 13:45:40] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 13:45:40] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling)
+[2025-08-14 13:45:40] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 13:46:03] INFO: Monitoring stopped
+[2025-08-14 13:46:14] INFO: Starting job and CSV monitoring...
+[2025-08-14 13:46:14] INFO: CSV monitoring started
+[2025-08-14 13:46:14] INFO: Daemon iteration 1
+[2025-08-14 13:46:14] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 13:46:14] INFO: Polling interval: 6m (Adaptive: no jobs)
+[2025-08-14 13:46:14] INFO: Waiting 6m...
+[2025-08-14 14:52:47] INFO: Authentication successful
+[2025-08-14 14:52:53] INFO: Starting job and CSV monitoring...
+[2025-08-14 14:52:53] INFO: Daemon iteration 1
+[2025-08-14 14:52:53] INFO: CSV monitoring started
+[2025-08-14 14:52:53] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 14:52:53] INFO: Polling interval: 6m (Adaptive: no jobs)
+[2025-08-14 14:52:53] INFO: Waiting 6m...
+[2025-08-14 14:53:13] INFO: Monitoring stopped
+[2025-08-14 15:05:57] INFO: Starting job and CSV monitoring...
+[2025-08-14 15:05:57] INFO: Daemon iteration 1
+[2025-08-14 15:05:57] INFO: CSV monitoring started
+[2025-08-14 15:05:59] INFO: Remaining jobs: 0
+[2025-08-14 15:05:59] INFO: Downloading 4 jobs...
+[2025-08-14 15:06:00] INFO: Download complete: 4 successful, 0 failed
+[2025-08-14 15:06:00] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, Jobs available and remaining ≤3: 0 - polling every 5 minutes)
+[2025-08-14 15:06:00] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:06:30] INFO: Daemon iteration 2
+[2025-08-14 15:06:30] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:06:30] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling)
+[2025-08-14 15:06:30] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:07:00] INFO: Daemon iteration 3
+[2025-08-14 15:07:01] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:07:01] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling)
+[2025-08-14 15:07:01] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:07:31] INFO: Daemon iteration 4
+[2025-08-14 15:07:31] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:07:31] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 3 - polling every 30 minutes)
+[2025-08-14 15:07:31] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:08:01] INFO: Daemon iteration 5
+[2025-08-14 15:08:02] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:08:02] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 4 - polling every 30 minutes)
+[2025-08-14 15:08:02] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:08:32] INFO: Daemon iteration 6
+[2025-08-14 15:08:35] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:08:35] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 5 - polling every 30 minutes)
+[2025-08-14 15:08:35] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:09:05] INFO: Daemon iteration 7
+[2025-08-14 15:09:05] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:09:05] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 6 - polling every 30 minutes)
+[2025-08-14 15:09:05] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:09:35] INFO: Daemon iteration 8
+[2025-08-14 15:09:35] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:09:35] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 7 - polling every 30 minutes)
+[2025-08-14 15:09:35] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:10:05] INFO: Daemon iteration 9
+[2025-08-14 15:10:06] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:10:06] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 8 - polling every 30 minutes)
+[2025-08-14 15:10:06] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:10:36] INFO: Daemon iteration 10
+[2025-08-14 15:10:37] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:10:37] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 9 - polling every 30 minutes)
+[2025-08-14 15:10:37] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:11:07] INFO: Daemon iteration 11
+[2025-08-14 15:11:07] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:11:07] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 10 - polling every 30 minutes)
+[2025-08-14 15:11:07] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:11:37] INFO: Daemon iteration 12
+[2025-08-14 15:11:37] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:11:37] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 11 - polling every 30 minutes)
+[2025-08-14 15:11:37] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:12:07] INFO: Daemon iteration 13
+[2025-08-14 15:12:08] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:12:08] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 12 - polling every 30 minutes)
+[2025-08-14 15:12:08] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:12:38] INFO: Daemon iteration 14
+[2025-08-14 15:12:38] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:12:38] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 13 - polling every 30 minutes)
+[2025-08-14 15:12:38] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:13:08] INFO: Daemon iteration 15
+[2025-08-14 15:13:09] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:13:09] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 14 - polling every 30 minutes)
+[2025-08-14 15:13:09] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:13:39] INFO: Daemon iteration 16
+[2025-08-14 15:13:39] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:13:39] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 15 - polling every 30 minutes)
+[2025-08-14 15:13:39] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:14:09] INFO: Daemon iteration 17
+[2025-08-14 15:14:10] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:14:10] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 16 - polling every 30 minutes)
+[2025-08-14 15:14:10] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:14:40] INFO: Daemon iteration 18
+[2025-08-14 15:14:40] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:14:40] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 17 - polling every 30 minutes)
+[2025-08-14 15:14:40] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:15:10] INFO: Daemon iteration 19
+[2025-08-14 15:15:11] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:15:11] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 18 - polling every 30 minutes)
+[2025-08-14 15:15:11] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:15:41] INFO: Daemon iteration 20
+[2025-08-14 15:15:41] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:15:41] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 19 - polling every 30 minutes)
+[2025-08-14 15:15:41] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:16:11] INFO: Daemon iteration 21
+[2025-08-14 15:16:12] INFO: Remaining jobs: 0
+[2025-08-14 15:16:12] INFO: Downloading 4 jobs...
+[2025-08-14 15:16:13] INFO: Download complete: 4 successful, 0 failed
+[2025-08-14 15:16:13] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, Jobs available and remaining ≤3: 0 - polling every 5 minutes)
+[2025-08-14 15:16:13] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:16:43] INFO: Daemon iteration 22
+[2025-08-14 15:16:44] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:16:44] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling)
+[2025-08-14 15:16:44] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:17:14] INFO: Daemon iteration 23
+[2025-08-14 15:17:14] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:17:14] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling)
+[2025-08-14 15:17:14] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:17:44] INFO: Daemon iteration 24
+[2025-08-14 15:17:44] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:17:44] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 3 - polling every 30 minutes)
+[2025-08-14 15:17:44] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:18:14] INFO: Daemon iteration 25
+[2025-08-14 15:18:15] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:18:15] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 4 - polling every 30 minutes)
+[2025-08-14 15:18:15] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:18:45] INFO: Daemon iteration 26
+[2025-08-14 15:18:45] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:18:45] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 5 - polling every 30 minutes)
+[2025-08-14 15:18:45] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:19:15] INFO: Daemon iteration 27
+[2025-08-14 15:19:16] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:19:16] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 6 - polling every 30 minutes)
+[2025-08-14 15:19:16] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:19:46] INFO: Daemon iteration 28
+[2025-08-14 15:19:46] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:19:46] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 7 - polling every 30 minutes)
+[2025-08-14 15:19:46] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:20:16] INFO: Daemon iteration 29
+[2025-08-14 15:20:17] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:20:17] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 8 - polling every 30 minutes)
+[2025-08-14 15:20:17] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:20:47] INFO: Daemon iteration 30
+[2025-08-14 15:20:47] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:20:47] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 9 - polling every 30 minutes)
+[2025-08-14 15:20:47] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:21:10] INFO: Monitoring stopped
+[2025-08-14 15:21:23] INFO: Starting job and CSV monitoring...
+[2025-08-14 15:21:23] INFO: CSV monitoring started
+[2025-08-14 15:21:23] INFO: Daemon iteration 1
+[2025-08-14 15:21:25] INFO: Remaining jobs: 0
+[2025-08-14 15:21:25] INFO: Downloading 4 jobs...
+[2025-08-14 15:21:26] INFO: Download complete: 4 successful, 0 failed
+[2025-08-14 15:21:26] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, Jobs available and remaining ≤3: 0 - polling every 5 minutes)
+[2025-08-14 15:21:26] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:21:56] INFO: Daemon iteration 2
+[2025-08-14 15:21:56] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:21:56] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling)
+[2025-08-14 15:21:56] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:22:26] INFO: Daemon iteration 3
+[2025-08-14 15:22:27] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:22:27] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling)
+[2025-08-14 15:22:27] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:22:57] INFO: Daemon iteration 4
+[2025-08-14 15:22:57] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:22:57] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 3 - polling every 30 minutes)
+[2025-08-14 15:22:57] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:23:27] INFO: Daemon iteration 5
+[2025-08-14 15:23:28] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:23:28] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 4 - polling every 30 minutes)
+[2025-08-14 15:23:28] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:23:58] INFO: Daemon iteration 6
+[2025-08-14 15:23:58] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:23:58] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 5 - polling every 30 minutes)
+[2025-08-14 15:23:58] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:24:28] INFO: Daemon iteration 7
+[2025-08-14 15:24:29] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:24:29] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 6 - polling every 30 minutes)
+[2025-08-14 15:24:29] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:24:59] INFO: Daemon iteration 8
+[2025-08-14 15:24:59] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:24:59] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 7 - polling every 30 minutes)
+[2025-08-14 15:24:59] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:25:29] INFO: Daemon iteration 9
+[2025-08-14 15:25:30] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:25:30] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 8 - polling every 30 minutes)
+[2025-08-14 15:25:30] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:26:00] INFO: Daemon iteration 10
+[2025-08-14 15:26:00] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:26:00] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 9 - polling every 30 minutes)
+[2025-08-14 15:26:00] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:26:30] INFO: Daemon iteration 11
+[2025-08-14 15:26:31] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:26:31] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 10 - polling every 30 minutes)
+[2025-08-14 15:26:31] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:27:01] INFO: Daemon iteration 12
+[2025-08-14 15:27:01] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:27:01] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 11 - polling every 30 minutes)
+[2025-08-14 15:27:01] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:27:31] INFO: Daemon iteration 13
+[2025-08-14 15:27:32] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:27:32] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 12 - polling every 30 minutes)
+[2025-08-14 15:27:32] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:28:02] INFO: Daemon iteration 14
+[2025-08-14 15:28:02] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:28:02] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 13 - polling every 30 minutes)
+[2025-08-14 15:28:02] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:28:32] INFO: Daemon iteration 15
+[2025-08-14 15:28:33] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:28:33] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 14 - polling every 30 minutes)
+[2025-08-14 15:28:33] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:29:03] INFO: Daemon iteration 16
+[2025-08-14 15:29:03] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:29:03] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 15 - polling every 30 minutes)
+[2025-08-14 15:29:03] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:29:33] INFO: Daemon iteration 17
+[2025-08-14 15:29:33] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:29:33] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 16 - polling every 30 minutes)
+[2025-08-14 15:29:33] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:30:03] INFO: Daemon iteration 18
+[2025-08-14 15:30:04] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:30:04] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 17 - polling every 30 minutes)
+[2025-08-14 15:30:04] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:30:34] INFO: Daemon iteration 19
+[2025-08-14 15:30:35] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:30:35] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 18 - polling every 30 minutes)
+[2025-08-14 15:30:35] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:31:05] INFO: Daemon iteration 20
+[2025-08-14 15:31:06] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:31:06] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 19 - polling every 30 minutes)
+[2025-08-14 15:31:06] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:31:36] INFO: Daemon iteration 21
+[2025-08-14 15:31:37] INFO: Remaining jobs: 0
+[2025-08-14 15:31:37] INFO: Downloading 4 jobs...
+[2025-08-14 15:31:38] INFO: Download complete: 4 successful, 0 failed
+[2025-08-14 15:31:38] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, Jobs available and remaining ≤3: 0 - polling every 5 minutes)
+[2025-08-14 15:31:38] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:32:08] INFO: Daemon iteration 22
+[2025-08-14 15:32:08] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:32:08] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling)
+[2025-08-14 15:32:08] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:32:38] INFO: Daemon iteration 23
+[2025-08-14 15:32:39] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:32:39] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling)
+[2025-08-14 15:32:39] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:33:09] INFO: Daemon iteration 24
+[2025-08-14 15:33:09] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:33:09] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 3 - polling every 30 minutes)
+[2025-08-14 15:33:09] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:33:39] INFO: Daemon iteration 25
+[2025-08-14 15:33:39] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:33:39] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 4 - polling every 30 minutes)
+[2025-08-14 15:33:39] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:34:09] INFO: Daemon iteration 26
+[2025-08-14 15:34:10] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:34:10] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 5 - polling every 30 minutes)
+[2025-08-14 15:34:10] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:34:40] INFO: Daemon iteration 27
+[2025-08-14 15:34:40] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:34:40] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 6 - polling every 30 minutes)
+[2025-08-14 15:34:40] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:35:10] INFO: Daemon iteration 28
+[2025-08-14 15:35:11] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:35:11] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 7 - polling every 30 minutes)
+[2025-08-14 15:35:11] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:35:41] INFO: Daemon iteration 29
+[2025-08-14 15:35:41] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:35:41] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 8 - polling every 30 minutes)
+[2025-08-14 15:35:41] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:36:11] INFO: Daemon iteration 30
+[2025-08-14 15:36:12] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:36:12] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 9 - polling every 30 minutes)
+[2025-08-14 15:36:12] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:36:42] INFO: Daemon iteration 31
+[2025-08-14 15:36:42] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:36:42] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 10 - polling every 30 minutes)
+[2025-08-14 15:36:42] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:37:12] INFO: Daemon iteration 32
+[2025-08-14 15:37:13] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:37:13] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 11 - polling every 30 minutes)
+[2025-08-14 15:37:13] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:37:43] INFO: Daemon iteration 33
+[2025-08-14 15:37:43] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:37:43] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 12 - polling every 30 minutes)
+[2025-08-14 15:37:43] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:38:13] INFO: Daemon iteration 34
+[2025-08-14 15:38:14] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:38:14] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 13 - polling every 30 minutes)
+[2025-08-14 15:38:14] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:38:44] INFO: Daemon iteration 35
+[2025-08-14 15:38:44] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:38:44] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 14 - polling every 30 minutes)
+[2025-08-14 15:38:44] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:39:14] INFO: Daemon iteration 36
+[2025-08-14 15:39:15] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:39:15] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 15 - polling every 30 minutes)
+[2025-08-14 15:39:15] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:39:45] INFO: Daemon iteration 37
+[2025-08-14 15:39:45] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:39:45] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 16 - polling every 30 minutes)
+[2025-08-14 15:39:45] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:40:15] INFO: Daemon iteration 38
+[2025-08-14 15:40:16] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:40:16] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 17 - polling every 30 minutes)
+[2025-08-14 15:40:16] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:40:46] INFO: Daemon iteration 39
+[2025-08-14 15:40:46] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:40:47] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 18 - polling every 30 minutes)
+[2025-08-14 15:40:47] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:41:17] INFO: Daemon iteration 40
+[2025-08-14 15:41:17] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:41:17] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 19 - polling every 30 minutes)
+[2025-08-14 15:41:17] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:41:47] INFO: Daemon iteration 41
+[2025-08-14 15:41:48] INFO: Remaining jobs: 0
+[2025-08-14 15:41:48] INFO: Downloading 4 jobs...
+[2025-08-14 15:41:49] INFO: Download complete: 4 successful, 0 failed
+[2025-08-14 15:41:49] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, Jobs available and remaining ≤3: 0 - polling every 5 minutes)
+[2025-08-14 15:41:49] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:42:19] INFO: Daemon iteration 42
+[2025-08-14 15:42:19] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:42:19] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling)
+[2025-08-14 15:42:19] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:42:49] INFO: Daemon iteration 43
+[2025-08-14 15:42:50] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:42:50] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling)
+[2025-08-14 15:42:50] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:43:20] INFO: Daemon iteration 44
+[2025-08-14 15:43:20] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:43:20] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 3 - polling every 30 minutes)
+[2025-08-14 15:43:20] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:43:50] INFO: Daemon iteration 45
+[2025-08-14 15:43:51] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:43:51] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 4 - polling every 30 minutes)
+[2025-08-14 15:43:51] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:44:21] INFO: Daemon iteration 46
+[2025-08-14 15:44:21] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:44:21] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 5 - polling every 30 minutes)
+[2025-08-14 15:44:21] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:44:51] INFO: Daemon iteration 47
+[2025-08-14 15:44:52] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:44:52] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 6 - polling every 30 minutes)
+[2025-08-14 15:44:52] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:45:22] INFO: Daemon iteration 48
+[2025-08-14 15:45:22] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:45:22] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 7 - polling every 30 minutes)
+[2025-08-14 15:45:22] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:45:52] INFO: Daemon iteration 49
+[2025-08-14 15:45:52] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:45:52] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 8 - polling every 30 minutes)
+[2025-08-14 15:45:52] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:46:22] INFO: Daemon iteration 50
+[2025-08-14 15:46:23] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:46:23] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 9 - polling every 30 minutes)
+[2025-08-14 15:46:23] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:46:53] INFO: Daemon iteration 51
+[2025-08-14 15:46:54] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:46:54] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 10 - polling every 30 minutes)
+[2025-08-14 15:46:54] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:47:24] INFO: Daemon iteration 52
+[2025-08-14 15:47:24] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:47:24] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 11 - polling every 30 minutes)
+[2025-08-14 15:47:24] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:47:54] INFO: Daemon iteration 53
+[2025-08-14 15:47:54] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:47:54] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 12 - polling every 30 minutes)
+[2025-08-14 15:47:54] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:48:24] INFO: Daemon iteration 54
+[2025-08-14 15:48:25] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:48:25] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 13 - polling every 30 minutes)
+[2025-08-14 15:48:25] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:48:55] INFO: Daemon iteration 55
+[2025-08-14 15:48:55] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:48:55] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 14 - polling every 30 minutes)
+[2025-08-14 15:48:56] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:49:26] INFO: Daemon iteration 56
+[2025-08-14 15:49:26] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:49:26] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 15 - polling every 30 minutes)
+[2025-08-14 15:49:26] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:49:56] INFO: Daemon iteration 57
+[2025-08-14 15:49:56] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:49:56] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 16 - polling every 30 minutes)
+[2025-08-14 15:49:56] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:50:26] INFO: Daemon iteration 58
+[2025-08-14 15:50:27] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:50:27] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 17 - polling every 30 minutes)
+[2025-08-14 15:50:27] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:50:57] INFO: Daemon iteration 59
+[2025-08-14 15:50:58] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:50:58] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 18 - polling every 30 minutes)
+[2025-08-14 15:50:58] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:51:28] INFO: Daemon iteration 60
+[2025-08-14 15:51:28] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:51:28] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 19 - polling every 30 minutes)
+[2025-08-14 15:51:28] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:51:58] INFO: Daemon iteration 61
+[2025-08-14 15:51:59] INFO: Remaining jobs: 0
+[2025-08-14 15:51:59] INFO: Downloading 4 jobs...
+[2025-08-14 15:52:00] INFO: Download complete: 4 successful, 0 failed
+[2025-08-14 15:52:00] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, Jobs available and remaining ≤3: 0 - polling every 5 minutes)
+[2025-08-14 15:52:00] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:52:30] INFO: Daemon iteration 62
+[2025-08-14 15:52:30] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:52:30] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling)
+[2025-08-14 15:52:30] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:53:00] INFO: Daemon iteration 63
+[2025-08-14 15:53:01] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:53:01] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling)
+[2025-08-14 15:53:01] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:53:31] INFO: Daemon iteration 64
+[2025-08-14 15:53:32] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:53:32] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 3 - polling every 30 minutes)
+[2025-08-14 15:53:32] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:54:02] INFO: Daemon iteration 65
+[2025-08-14 15:54:02] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:54:02] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 4 - polling every 30 minutes)
+[2025-08-14 15:54:02] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:54:32] INFO: Daemon iteration 66
+[2025-08-14 15:54:33] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:54:33] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 5 - polling every 30 minutes)
+[2025-08-14 15:54:33] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:55:03] INFO: Daemon iteration 67
+[2025-08-14 15:55:04] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:55:04] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 6 - polling every 30 minutes)
+[2025-08-14 15:55:04] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:55:34] INFO: Daemon iteration 68
+[2025-08-14 15:55:34] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:55:34] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 7 - polling every 30 minutes)
+[2025-08-14 15:55:34] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:56:04] INFO: Daemon iteration 69
+[2025-08-14 15:56:04] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:56:04] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 8 - polling every 30 minutes)
+[2025-08-14 15:56:04] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:56:34] INFO: Daemon iteration 70
+[2025-08-14 15:56:35] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:56:35] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 9 - polling every 30 minutes)
+[2025-08-14 15:56:35] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:57:05] INFO: Daemon iteration 71
+[2025-08-14 15:57:06] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:57:06] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 10 - polling every 30 minutes)
+[2025-08-14 15:57:06] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:57:36] INFO: Daemon iteration 72
+[2025-08-14 15:57:36] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:57:36] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 11 - polling every 30 minutes)
+[2025-08-14 15:57:36] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:58:06] INFO: Daemon iteration 73
+[2025-08-14 15:58:07] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:58:07] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 12 - polling every 30 minutes)
+[2025-08-14 15:58:07] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:58:37] INFO: Daemon iteration 74
+[2025-08-14 15:58:37] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:58:37] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 13 - polling every 30 minutes)
+[2025-08-14 15:58:37] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:59:07] INFO: Daemon iteration 75
+[2025-08-14 15:59:08] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:59:08] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 14 - polling every 30 minutes)
+[2025-08-14 15:59:08] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 15:59:38] INFO: Daemon iteration 76
+[2025-08-14 15:59:38] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 15:59:38] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 15 - polling every 30 minutes)
+[2025-08-14 15:59:38] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 16:00:08] INFO: Daemon iteration 77
+[2025-08-14 16:00:09] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 16:00:09] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 16 - polling every 30 minutes)
+[2025-08-14 16:00:09] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 16:00:39] INFO: Daemon iteration 78
+[2025-08-14 16:00:39] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 16:00:39] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 17 - polling every 30 minutes)
+[2025-08-14 16:00:39] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 16:01:09] INFO: Daemon iteration 79
+[2025-08-14 16:01:11] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-14 16:01:11] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, 3+ consecutive empty polls: 18 - polling every 30 minutes)
+[2025-08-14 16:01:11] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-14 16:01:35] INFO: Monitoring stopped

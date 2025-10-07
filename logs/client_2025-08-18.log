@@ -1,0 +1,21 @@
+[2025-08-18 15:13:17] INFO: Authentication successful
+[2025-08-18 15:13:20] INFO: Starting job and CSV monitoring...
+[2025-08-18 15:13:20] INFO: CSV monitoring started
+[2025-08-18 15:13:20] INFO: Daemon iteration 1
+[2025-08-18 15:13:21] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-18 15:13:21] INFO: Polling interval: 6m (Adaptive: no jobs)
+[2025-08-18 15:13:21] INFO: Waiting 6m...
+[2025-08-18 15:13:38] INFO: Monitoring stopped
+[2025-08-18 15:13:40] INFO: Starting job and CSV monitoring...
+[2025-08-18 15:13:40] INFO: CSV monitoring started
+[2025-08-18 15:13:40] INFO: Daemon iteration 1
+[2025-08-18 15:13:41] INFO: Remaining jobs: 0
+[2025-08-18 15:13:41] INFO: Downloading 4 jobs...
+[2025-08-18 15:13:42] INFO: Download complete: 4 successful, 0 failed
+[2025-08-18 15:13:42] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling, Jobs available and remaining ≤3: 0 - polling every 5 minutes)
+[2025-08-18 15:13:42] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-18 15:14:12] INFO: Daemon iteration 2
+[2025-08-18 15:14:13] INFO: Remaining jobs: 0 (no jobs found)
+[2025-08-18 15:14:13] INFO: Polling stopped (Files/Jobs/To Do folder has 4 jobs (>3) - stopping polling)
+[2025-08-18 15:14:13] INFO: Polling stopped - waiting for downloads folder to have ≤3 jobs
+[2025-08-18 15:14:16] INFO: Monitoring stopped

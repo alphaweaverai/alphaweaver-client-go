@@ -1,0 +1,8 @@
+[2025-09-24 19:11:50] INFO: 🚀 [WFO-MONITOR] Starting WFO_RETEST completion monitoring service
+[2025-09-24 19:11:50] INFO: 🚀 [WFO-MONITOR] Monitor goroutine started successfully
+[2025-09-24 19:11:50] INFO: ✅ [WFO-MONITOR] WFO completion monitoring service started successfully
+[2025-09-24 19:11:50] INFO: 🔄 [WFO-MONITOR] Starting monitoring cycle
+[2025-09-24 19:11:50] INFO: 👀 [WFO-MONITOR] Starting WFO_RETEST completion monitoring cycle
+[2025-09-24 19:11:50] INFO: 👀 [WFO-MONITOR] Monitoring directory: C:\AlphaWeaver\files\results
+[2025-09-24 19:11:50] INFO: ⏰ [WFO-WATCHER] Starting file watcher with 30-second intervals
+[2025-09-24 19:11:50] INFO: ⏰ [WFO-WATCHER] Processed files tracker initialized

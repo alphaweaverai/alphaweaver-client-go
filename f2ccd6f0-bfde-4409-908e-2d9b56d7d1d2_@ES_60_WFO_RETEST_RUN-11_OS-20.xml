@@ -1,0 +1,957 @@
+<root>
+<Job>
+  <Id>f2ccd6f0-bfde-4409-908e-2d9b56d7d1d2</Id>
+  <WorkflowId>51cab38c-ada6-404b-ae01-8ea43cb5bd50</WorkflowId>
+  <TaskKey>task_4</TaskKey>
+  <Symbol>@ES</Symbol>
+  <Timeframe>60</Timeframe>
+  <filename>f2ccd6f0-bfde-4409-908e-2d9b56d7d1d2_@ES_60_WFO.job</filename>
+  <Version>1</Version>
+  <pyramidMode>N</pyramidMode>
+  <interestRate>2.0</interestRate>
+  <slippageType>FPCS</slippageType>
+  <enableIOGLIBB>true</enableIOGLIBB>
+  <minFillTrades>5.0</minFillTrades>
+  <minFillVolume>5000.0</minFillVolume>
+  <commissionType>FPCS</commissionType>
+  <initialCapital>100000</initialCapital>
+  <maxPositionSize>65000</maxPositionSize>
+  <noOfTestsToKeep>500</noOfTestsToKeep>
+  <maxPyramidEntries>50</maxPyramidEntries>
+  <limitOrderFillType>PL</limitOrderFillType>
+  <marketOrderSlippage>0.0</marketOrderSlippage>
+  <defaultTradeSizeType>FU</defaultTradeSizeType>
+  <tradeSizeFixedAmount>1</tradeSizeFixedAmount>
+  <tradeSizeDollarAmount>10000.0</tradeSizeDollarAmount>
+  <timezone>E</timezone>
+  <volumeUse>TV</volumeUse>
+  <generation>20</generation>
+  <population>200</population>
+  <barBuilding>SH</barBuilding>
+  <maxBarsBack>250</maxBarsBack>
+  <chartSession>Regular Session</chartSession>
+  <mutationRate>0.05</mutationRate>
+  <crossoverRate>0.9</crossoverRate>
+  <stressTestSize>1</stressTestSize>
+  <fitnessFunction>NPDD</fitnessFunction>
+  <includeCommission>false</includeCommission>
+  <slippageMultiplier>0</slippageMultiplier>
+  <stressTestIncrement>10</stressTestIncrement>
+  <earlyExitGenerations>10</earlyExitGenerations>
+  <highPrecisionTesting>false</highPrecisionTesting>
+  <backtestingResolutionMin>5</backtestingResolutionMin>
+  <task_type>WFO_RETEST</task_type>
+  <stage>Walk-Forward Optimization</stage>
+  <startDate>2006-12-28</startDate>
+  <endDate>2013-09-10</endDate>
+  <oos_percent>20</oos_percent>
+<task_id>3fe2cc90-4847-42b7-ad14-5b3168b9df25</task_id>
+  <strategy_name>!DoubleEMA</strategy_name>
+  <platform>TradeStation</platform>
+  <parameters><iFastMAPeriod>
+  <value>10</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iFastMAPeriod>
+<iSlowMAPeriod>
+  <value>50</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iSlowMAPeriod>
+<iStoploss>
+  <value>2800</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iStoploss>
+<iDailyMaxTrades>
+  <value>1.0</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iDailyMaxTrades>
+<iStrategyName>
+  <value>DoubleEMA1</value>
+  <param_type>FixedString</param_type>
+  <data_type>string</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iStrategyName>
+</parameters>
+  <data_streams/>
+  <run>1</run>
+  <is_start_date>2007-01-01</is_start_date>
+  <is_end_date>2012-05-08</is_end_date>
+  <os_start_date>2012-05-09</os_start_date>
+  <os_end_date>2013-09-09</os_end_date>
+</Job>
+<Job>
+  <Id>f2ccd6f0-bfde-4409-908e-2d9b56d7d1d2</Id>
+  <WorkflowId>51cab38c-ada6-404b-ae01-8ea43cb5bd50</WorkflowId>
+  <TaskKey>task_4</TaskKey>
+  <Symbol>@ES</Symbol>
+  <Timeframe>60</Timeframe>
+  <filename>f2ccd6f0-bfde-4409-908e-2d9b56d7d1d2_@ES_60_WFO.job</filename>
+  <Version>1</Version>
+  <pyramidMode>N</pyramidMode>
+  <interestRate>2.0</interestRate>
+  <slippageType>FPCS</slippageType>
+  <enableIOGLIBB>true</enableIOGLIBB>
+  <minFillTrades>5.0</minFillTrades>
+  <minFillVolume>5000.0</minFillVolume>
+  <commissionType>FPCS</commissionType>
+  <initialCapital>100000</initialCapital>
+  <maxPositionSize>65000</maxPositionSize>
+  <noOfTestsToKeep>500</noOfTestsToKeep>
+  <maxPyramidEntries>50</maxPyramidEntries>
+  <limitOrderFillType>PL</limitOrderFillType>
+  <marketOrderSlippage>0.0</marketOrderSlippage>
+  <defaultTradeSizeType>FU</defaultTradeSizeType>
+  <tradeSizeFixedAmount>1</tradeSizeFixedAmount>
+  <tradeSizeDollarAmount>10000.0</tradeSizeDollarAmount>
+  <timezone>E</timezone>
+  <volumeUse>TV</volumeUse>
+  <generation>20</generation>
+  <population>200</population>
+  <barBuilding>SH</barBuilding>
+  <maxBarsBack>250</maxBarsBack>
+  <chartSession>Regular Session</chartSession>
+  <mutationRate>0.05</mutationRate>
+  <crossoverRate>0.9</crossoverRate>
+  <stressTestSize>1</stressTestSize>
+  <fitnessFunction>NPDD</fitnessFunction>
+  <includeCommission>false</includeCommission>
+  <slippageMultiplier>0</slippageMultiplier>
+  <stressTestIncrement>10</stressTestIncrement>
+  <earlyExitGenerations>10</earlyExitGenerations>
+  <highPrecisionTesting>false</highPrecisionTesting>
+  <backtestingResolutionMin>5</backtestingResolutionMin>
+  <task_type>WFO_RETEST</task_type>
+  <stage>Walk-Forward Optimization</stage>
+  <startDate>2008-04-30</startDate>
+  <endDate>2015-01-12</endDate>
+  <oos_percent>20</oos_percent>
+<task_id>3fe2cc90-4847-42b7-ad14-5b3168b9df25</task_id>
+  <strategy_name>!DoubleEMA</strategy_name>
+  <platform>TradeStation</platform>
+  <parameters><iFastMAPeriod>
+  <value>10</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iFastMAPeriod>
+<iSlowMAPeriod>
+  <value>50</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iSlowMAPeriod>
+<iStoploss>
+  <value>250</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iStoploss>
+<iDailyMaxTrades>
+  <value>1.0</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iDailyMaxTrades>
+<iStrategyName>
+  <value>DoubleEMA1</value>
+  <param_type>FixedString</param_type>
+  <data_type>string</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iStrategyName>
+</parameters>
+  <data_streams/>
+  <run>2</run>
+  <is_start_date>2008-05-04</is_start_date>
+  <is_end_date>2013-09-09</is_end_date>
+  <os_start_date>2013-09-10</os_start_date>
+  <os_end_date>2015-01-11</os_end_date>
+</Job>
+<Job>
+  <Id>f2ccd6f0-bfde-4409-908e-2d9b56d7d1d2</Id>
+  <WorkflowId>51cab38c-ada6-404b-ae01-8ea43cb5bd50</WorkflowId>
+  <TaskKey>task_4</TaskKey>
+  <Symbol>@ES</Symbol>
+  <Timeframe>60</Timeframe>
+  <filename>f2ccd6f0-bfde-4409-908e-2d9b56d7d1d2_@ES_60_WFO.job</filename>
+  <Version>1</Version>
+  <pyramidMode>N</pyramidMode>
+  <interestRate>2.0</interestRate>
+  <slippageType>FPCS</slippageType>
+  <enableIOGLIBB>true</enableIOGLIBB>
+  <minFillTrades>5.0</minFillTrades>
+  <minFillVolume>5000.0</minFillVolume>
+  <commissionType>FPCS</commissionType>
+  <initialCapital>100000</initialCapital>
+  <maxPositionSize>65000</maxPositionSize>
+  <noOfTestsToKeep>500</noOfTestsToKeep>
+  <maxPyramidEntries>50</maxPyramidEntries>
+  <limitOrderFillType>PL</limitOrderFillType>
+  <marketOrderSlippage>0.0</marketOrderSlippage>
+  <defaultTradeSizeType>FU</defaultTradeSizeType>
+  <tradeSizeFixedAmount>1</tradeSizeFixedAmount>
+  <tradeSizeDollarAmount>10000.0</tradeSizeDollarAmount>
+  <timezone>E</timezone>
+  <volumeUse>TV</volumeUse>
+  <generation>20</generation>
+  <population>200</population>
+  <barBuilding>SH</barBuilding>
+  <maxBarsBack>250</maxBarsBack>
+  <chartSession>Regular Session</chartSession>
+  <mutationRate>0.05</mutationRate>
+  <crossoverRate>0.9</crossoverRate>
+  <stressTestSize>1</stressTestSize>
+  <fitnessFunction>NPDD</fitnessFunction>
+  <includeCommission>false</includeCommission>
+  <slippageMultiplier>0</slippageMultiplier>
+  <stressTestIncrement>10</stressTestIncrement>
+  <earlyExitGenerations>10</earlyExitGenerations>
+  <highPrecisionTesting>false</highPrecisionTesting>
+  <backtestingResolutionMin>5</backtestingResolutionMin>
+  <task_type>WFO_RETEST</task_type>
+  <stage>Walk-Forward Optimization</stage>
+  <startDate>2009-09-01</startDate>
+  <endDate>2016-05-15</endDate>
+  <oos_percent>20</oos_percent>
+<task_id>3fe2cc90-4847-42b7-ad14-5b3168b9df25</task_id>
+  <strategy_name>!DoubleEMA</strategy_name>
+  <platform>TradeStation</platform>
+  <parameters><iFastMAPeriod>
+  <value>25</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iFastMAPeriod>
+<iSlowMAPeriod>
+  <value>50</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iSlowMAPeriod>
+<iStoploss>
+  <value>300</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iStoploss>
+<iDailyMaxTrades>
+  <value>1.0</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iDailyMaxTrades>
+<iStrategyName>
+  <value>DoubleEMA1</value>
+  <param_type>FixedString</param_type>
+  <data_type>string</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iStrategyName>
+</parameters>
+  <data_streams/>
+  <run>3</run>
+  <is_start_date>2009-09-05</is_start_date>
+  <is_end_date>2015-01-11</is_end_date>
+  <os_start_date>2015-01-12</os_start_date>
+  <os_end_date>2016-05-14</os_end_date>
+</Job>
+<Job>
+  <Id>f2ccd6f0-bfde-4409-908e-2d9b56d7d1d2</Id>
+  <WorkflowId>51cab38c-ada6-404b-ae01-8ea43cb5bd50</WorkflowId>
+  <TaskKey>task_4</TaskKey>
+  <Symbol>@ES</Symbol>
+  <Timeframe>60</Timeframe>
+  <filename>f2ccd6f0-bfde-4409-908e-2d9b56d7d1d2_@ES_60_WFO.job</filename>
+  <Version>1</Version>
+  <pyramidMode>N</pyramidMode>
+  <interestRate>2.0</interestRate>
+  <slippageType>FPCS</slippageType>
+  <enableIOGLIBB>true</enableIOGLIBB>
+  <minFillTrades>5.0</minFillTrades>
+  <minFillVolume>5000.0</minFillVolume>
+  <commissionType>FPCS</commissionType>
+  <initialCapital>100000</initialCapital>
+  <maxPositionSize>65000</maxPositionSize>
+  <noOfTestsToKeep>500</noOfTestsToKeep>
+  <maxPyramidEntries>50</maxPyramidEntries>
+  <limitOrderFillType>PL</limitOrderFillType>
+  <marketOrderSlippage>0.0</marketOrderSlippage>
+  <defaultTradeSizeType>FU</defaultTradeSizeType>
+  <tradeSizeFixedAmount>1</tradeSizeFixedAmount>
+  <tradeSizeDollarAmount>10000.0</tradeSizeDollarAmount>
+  <timezone>E</timezone>
+  <volumeUse>TV</volumeUse>
+  <generation>20</generation>
+  <population>200</population>
+  <barBuilding>SH</barBuilding>
+  <maxBarsBack>250</maxBarsBack>
+  <chartSession>Regular Session</chartSession>
+  <mutationRate>0.05</mutationRate>
+  <crossoverRate>0.9</crossoverRate>
+  <stressTestSize>1</stressTestSize>
+  <fitnessFunction>NPDD</fitnessFunction>
+  <includeCommission>false</includeCommission>
+  <slippageMultiplier>0</slippageMultiplier>
+  <stressTestIncrement>10</stressTestIncrement>
+  <earlyExitGenerations>10</earlyExitGenerations>
+  <highPrecisionTesting>false</highPrecisionTesting>
+  <backtestingResolutionMin>5</backtestingResolutionMin>
+  <task_type>WFO_RETEST</task_type>
+  <stage>Walk-Forward Optimization</stage>
+  <startDate>2011-01-03</startDate>
+  <endDate>2017-09-16</endDate>
+  <oos_percent>20</oos_percent>
+<task_id>3fe2cc90-4847-42b7-ad14-5b3168b9df25</task_id>
+  <strategy_name>!DoubleEMA</strategy_name>
+  <platform>TradeStation</platform>
+  <parameters><iFastMAPeriod>
+  <value>15</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iFastMAPeriod>
+<iSlowMAPeriod>
+  <value>55</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iSlowMAPeriod>
+<iStoploss>
+  <value>250</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iStoploss>
+<iDailyMaxTrades>
+  <value>1.0</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iDailyMaxTrades>
+<iStrategyName>
+  <value>DoubleEMA1</value>
+  <param_type>FixedString</param_type>
+  <data_type>string</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iStrategyName>
+</parameters>
+  <data_streams/>
+  <run>4</run>
+  <is_start_date>2011-01-07</is_start_date>
+  <is_end_date>2016-05-14</is_end_date>
+  <os_start_date>2016-05-15</os_start_date>
+  <os_end_date>2017-09-15</os_end_date>
+</Job>
+<Job>
+  <Id>f2ccd6f0-bfde-4409-908e-2d9b56d7d1d2</Id>
+  <WorkflowId>51cab38c-ada6-404b-ae01-8ea43cb5bd50</WorkflowId>
+  <TaskKey>task_4</TaskKey>
+  <Symbol>@ES</Symbol>
+  <Timeframe>60</Timeframe>
+  <filename>f2ccd6f0-bfde-4409-908e-2d9b56d7d1d2_@ES_60_WFO.job</filename>
+  <Version>1</Version>
+  <pyramidMode>N</pyramidMode>
+  <interestRate>2.0</interestRate>
+  <slippageType>FPCS</slippageType>
+  <enableIOGLIBB>true</enableIOGLIBB>
+  <minFillTrades>5.0</minFillTrades>
+  <minFillVolume>5000.0</minFillVolume>
+  <commissionType>FPCS</commissionType>
+  <initialCapital>100000</initialCapital>
+  <maxPositionSize>65000</maxPositionSize>
+  <noOfTestsToKeep>500</noOfTestsToKeep>
+  <maxPyramidEntries>50</maxPyramidEntries>
+  <limitOrderFillType>PL</limitOrderFillType>
+  <marketOrderSlippage>0.0</marketOrderSlippage>
+  <defaultTradeSizeType>FU</defaultTradeSizeType>
+  <tradeSizeFixedAmount>1</tradeSizeFixedAmount>
+  <tradeSizeDollarAmount>10000.0</tradeSizeDollarAmount>
+  <timezone>E</timezone>
+  <volumeUse>TV</volumeUse>
+  <generation>20</generation>
+  <population>200</population>
+  <barBuilding>SH</barBuilding>
+  <maxBarsBack>250</maxBarsBack>
+  <chartSession>Regular Session</chartSession>
+  <mutationRate>0.05</mutationRate>
+  <crossoverRate>0.9</crossoverRate>
+  <stressTestSize>1</stressTestSize>
+  <fitnessFunction>NPDD</fitnessFunction>
+  <includeCommission>false</includeCommission>
+  <slippageMultiplier>0</slippageMultiplier>
+  <stressTestIncrement>10</stressTestIncrement>
+  <earlyExitGenerations>10</earlyExitGenerations>
+  <highPrecisionTesting>false</highPrecisionTesting>
+  <backtestingResolutionMin>5</backtestingResolutionMin>
+  <task_type>WFO_RETEST</task_type>
+  <stage>Walk-Forward Optimization</stage>
+  <startDate>2012-05-06</startDate>
+  <endDate>2019-01-18</endDate>
+  <oos_percent>20</oos_percent>
+<task_id>3fe2cc90-4847-42b7-ad14-5b3168b9df25</task_id>
+  <strategy_name>!DoubleEMA</strategy_name>
+  <platform>TradeStation</platform>
+  <parameters><iFastMAPeriod>
+  <value>25</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iFastMAPeriod>
+<iSlowMAPeriod>
+  <value>60</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iSlowMAPeriod>
+<iStoploss>
+  <value>300</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iStoploss>
+<iDailyMaxTrades>
+  <value>1.0</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iDailyMaxTrades>
+<iStrategyName>
+  <value>DoubleEMA1</value>
+  <param_type>FixedString</param_type>
+  <data_type>string</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iStrategyName>
+</parameters>
+  <data_streams/>
+  <run>5</run>
+  <is_start_date>2012-05-10</is_start_date>
+  <is_end_date>2017-09-15</is_end_date>
+  <os_start_date>2017-09-16</os_start_date>
+  <os_end_date>2019-01-17</os_end_date>
+</Job>
+<Job>
+  <Id>f2ccd6f0-bfde-4409-908e-2d9b56d7d1d2</Id>
+  <WorkflowId>51cab38c-ada6-404b-ae01-8ea43cb5bd50</WorkflowId>
+  <TaskKey>task_4</TaskKey>
+  <Symbol>@ES</Symbol>
+  <Timeframe>60</Timeframe>
+  <filename>f2ccd6f0-bfde-4409-908e-2d9b56d7d1d2_@ES_60_WFO.job</filename>
+  <Version>1</Version>
+  <pyramidMode>N</pyramidMode>
+  <interestRate>2.0</interestRate>
+  <slippageType>FPCS</slippageType>
+  <enableIOGLIBB>true</enableIOGLIBB>
+  <minFillTrades>5.0</minFillTrades>
+  <minFillVolume>5000.0</minFillVolume>
+  <commissionType>FPCS</commissionType>
+  <initialCapital>100000</initialCapital>
+  <maxPositionSize>65000</maxPositionSize>
+  <noOfTestsToKeep>500</noOfTestsToKeep>
+  <maxPyramidEntries>50</maxPyramidEntries>
+  <limitOrderFillType>PL</limitOrderFillType>
+  <marketOrderSlippage>0.0</marketOrderSlippage>
+  <defaultTradeSizeType>FU</defaultTradeSizeType>
+  <tradeSizeFixedAmount>1</tradeSizeFixedAmount>
+  <tradeSizeDollarAmount>10000.0</tradeSizeDollarAmount>
+  <timezone>E</timezone>
+  <volumeUse>TV</volumeUse>
+  <generation>20</generation>
+  <population>200</population>
+  <barBuilding>SH</barBuilding>
+  <maxBarsBack>250</maxBarsBack>
+  <chartSession>Regular Session</chartSession>
+  <mutationRate>0.05</mutationRate>
+  <crossoverRate>0.9</crossoverRate>
+  <stressTestSize>1</stressTestSize>
+  <fitnessFunction>NPDD</fitnessFunction>
+  <includeCommission>false</includeCommission>
+  <slippageMultiplier>0</slippageMultiplier>
+  <stressTestIncrement>10</stressTestIncrement>
+  <earlyExitGenerations>10</earlyExitGenerations>
+  <highPrecisionTesting>false</highPrecisionTesting>
+  <backtestingResolutionMin>5</backtestingResolutionMin>
+  <task_type>WFO_RETEST</task_type>
+  <stage>Walk-Forward Optimization</stage>
+  <startDate>2013-09-07</startDate>
+  <endDate>2020-05-21</endDate>
+  <oos_percent>20</oos_percent>
+<task_id>3fe2cc90-4847-42b7-ad14-5b3168b9df25</task_id>
+  <strategy_name>!DoubleEMA</strategy_name>
+  <platform>TradeStation</platform>
+  <parameters><iFastMAPeriod>
+  <value>15</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iFastMAPeriod>
+<iSlowMAPeriod>
+  <value>60</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iSlowMAPeriod>
+<iStoploss>
+  <value>2400</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iStoploss>
+<iDailyMaxTrades>
+  <value>1.0</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iDailyMaxTrades>
+<iStrategyName>
+  <value>DoubleEMA1</value>
+  <param_type>FixedString</param_type>
+  <data_type>string</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iStrategyName>
+</parameters>
+  <data_streams/>
+  <run>6</run>
+  <is_start_date>2013-09-11</is_start_date>
+  <is_end_date>2019-01-17</is_end_date>
+  <os_start_date>2019-01-18</os_start_date>
+  <os_end_date>2020-05-20</os_end_date>
+</Job>
+<Job>
+  <Id>f2ccd6f0-bfde-4409-908e-2d9b56d7d1d2</Id>
+  <WorkflowId>51cab38c-ada6-404b-ae01-8ea43cb5bd50</WorkflowId>
+  <TaskKey>task_4</TaskKey>
+  <Symbol>@ES</Symbol>
+  <Timeframe>60</Timeframe>
+  <filename>f2ccd6f0-bfde-4409-908e-2d9b56d7d1d2_@ES_60_WFO.job</filename>
+  <Version>1</Version>
+  <pyramidMode>N</pyramidMode>
+  <interestRate>2.0</interestRate>
+  <slippageType>FPCS</slippageType>
+  <enableIOGLIBB>true</enableIOGLIBB>
+  <minFillTrades>5.0</minFillTrades>
+  <minFillVolume>5000.0</minFillVolume>
+  <commissionType>FPCS</commissionType>
+  <initialCapital>100000</initialCapital>
+  <maxPositionSize>65000</maxPositionSize>
+  <noOfTestsToKeep>500</noOfTestsToKeep>
+  <maxPyramidEntries>50</maxPyramidEntries>
+  <limitOrderFillType>PL</limitOrderFillType>
+  <marketOrderSlippage>0.0</marketOrderSlippage>
+  <defaultTradeSizeType>FU</defaultTradeSizeType>
+  <tradeSizeFixedAmount>1</tradeSizeFixedAmount>
+  <tradeSizeDollarAmount>10000.0</tradeSizeDollarAmount>
+  <timezone>E</timezone>
+  <volumeUse>TV</volumeUse>
+  <generation>20</generation>
+  <population>200</population>
+  <barBuilding>SH</barBuilding>
+  <maxBarsBack>250</maxBarsBack>
+  <chartSession>Regular Session</chartSession>
+  <mutationRate>0.05</mutationRate>
+  <crossoverRate>0.9</crossoverRate>
+  <stressTestSize>1</stressTestSize>
+  <fitnessFunction>NPDD</fitnessFunction>
+  <includeCommission>false</includeCommission>
+  <slippageMultiplier>0</slippageMultiplier>
+  <stressTestIncrement>10</stressTestIncrement>
+  <earlyExitGenerations>10</earlyExitGenerations>
+  <highPrecisionTesting>false</highPrecisionTesting>
+  <backtestingResolutionMin>5</backtestingResolutionMin>
+  <task_type>WFO_RETEST</task_type>
+  <stage>Walk-Forward Optimization</stage>
+  <startDate>2015-01-09</startDate>
+  <endDate>2021-09-22</endDate>
+  <oos_percent>20</oos_percent>
+<task_id>3fe2cc90-4847-42b7-ad14-5b3168b9df25</task_id>
+  <strategy_name>!DoubleEMA</strategy_name>
+  <platform>TradeStation</platform>
+  <parameters><iFastMAPeriod>
+  <value>10</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iFastMAPeriod>
+<iSlowMAPeriod>
+  <value>50</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iSlowMAPeriod>
+<iStoploss>
+  <value>5100</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iStoploss>
+<iDailyMaxTrades>
+  <value>1.0</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iDailyMaxTrades>
+<iStrategyName>
+  <value>DoubleEMA1</value>
+  <param_type>FixedString</param_type>
+  <data_type>string</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iStrategyName>
+</parameters>
+  <data_streams/>
+  <run>7</run>
+  <is_start_date>2015-01-13</is_start_date>
+  <is_end_date>2020-05-20</is_end_date>
+  <os_start_date>2020-05-21</os_start_date>
+  <os_end_date>2021-09-21</os_end_date>
+</Job>
+<Job>
+  <Id>f2ccd6f0-bfde-4409-908e-2d9b56d7d1d2</Id>
+  <WorkflowId>51cab38c-ada6-404b-ae01-8ea43cb5bd50</WorkflowId>
+  <TaskKey>task_4</TaskKey>
+  <Symbol>@ES</Symbol>
+  <Timeframe>60</Timeframe>
+  <filename>f2ccd6f0-bfde-4409-908e-2d9b56d7d1d2_@ES_60_WFO.job</filename>
+  <Version>1</Version>
+  <pyramidMode>N</pyramidMode>
+  <interestRate>2.0</interestRate>
+  <slippageType>FPCS</slippageType>
+  <enableIOGLIBB>true</enableIOGLIBB>
+  <minFillTrades>5.0</minFillTrades>
+  <minFillVolume>5000.0</minFillVolume>
+  <commissionType>FPCS</commissionType>
+  <initialCapital>100000</initialCapital>
+  <maxPositionSize>65000</maxPositionSize>
+  <noOfTestsToKeep>500</noOfTestsToKeep>
+  <maxPyramidEntries>50</maxPyramidEntries>
+  <limitOrderFillType>PL</limitOrderFillType>
+  <marketOrderSlippage>0.0</marketOrderSlippage>
+  <defaultTradeSizeType>FU</defaultTradeSizeType>
+  <tradeSizeFixedAmount>1</tradeSizeFixedAmount>
+  <tradeSizeDollarAmount>10000.0</tradeSizeDollarAmount>
+  <timezone>E</timezone>
+  <volumeUse>TV</volumeUse>
+  <generation>20</generation>
+  <population>200</population>
+  <barBuilding>SH</barBuilding>
+  <maxBarsBack>250</maxBarsBack>
+  <chartSession>Regular Session</chartSession>
+  <mutationRate>0.05</mutationRate>
+  <crossoverRate>0.9</crossoverRate>
+  <stressTestSize>1</stressTestSize>
+  <fitnessFunction>NPDD</fitnessFunction>
+  <includeCommission>false</includeCommission>
+  <slippageMultiplier>0</slippageMultiplier>
+  <stressTestIncrement>10</stressTestIncrement>
+  <earlyExitGenerations>10</earlyExitGenerations>
+  <highPrecisionTesting>false</highPrecisionTesting>
+  <backtestingResolutionMin>5</backtestingResolutionMin>
+  <task_type>WFO_RETEST</task_type>
+  <stage>Walk-Forward Optimization</stage>
+  <startDate>2016-05-12</startDate>
+  <endDate>2023-01-24</endDate>
+  <oos_percent>20</oos_percent>
+<task_id>3fe2cc90-4847-42b7-ad14-5b3168b9df25</task_id>
+  <strategy_name>!DoubleEMA</strategy_name>
+  <platform>TradeStation</platform>
+  <parameters><iFastMAPeriod>
+  <value>30</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iFastMAPeriod>
+<iSlowMAPeriod>
+  <value>60</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iSlowMAPeriod>
+<iStoploss>
+  <value>850</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iStoploss>
+<iDailyMaxTrades>
+  <value>1.0</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iDailyMaxTrades>
+<iStrategyName>
+  <value>DoubleEMA1</value>
+  <param_type>FixedString</param_type>
+  <data_type>string</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iStrategyName>
+</parameters>
+  <data_streams/>
+  <run>8</run>
+  <is_start_date>2016-05-16</is_start_date>
+  <is_end_date>2021-09-21</is_end_date>
+  <os_start_date>2021-09-22</os_start_date>
+  <os_end_date>2023-01-23</os_end_date>
+</Job>
+<Job>
+  <Id>f2ccd6f0-bfde-4409-908e-2d9b56d7d1d2</Id>
+  <WorkflowId>51cab38c-ada6-404b-ae01-8ea43cb5bd50</WorkflowId>
+  <TaskKey>task_4</TaskKey>
+  <Symbol>@ES</Symbol>
+  <Timeframe>60</Timeframe>
+  <filename>f2ccd6f0-bfde-4409-908e-2d9b56d7d1d2_@ES_60_WFO.job</filename>
+  <Version>1</Version>
+  <pyramidMode>N</pyramidMode>
+  <interestRate>2.0</interestRate>
+  <slippageType>FPCS</slippageType>
+  <enableIOGLIBB>true</enableIOGLIBB>
+  <minFillTrades>5.0</minFillTrades>
+  <minFillVolume>5000.0</minFillVolume>
+  <commissionType>FPCS</commissionType>
+  <initialCapital>100000</initialCapital>
+  <maxPositionSize>65000</maxPositionSize>
+  <noOfTestsToKeep>500</noOfTestsToKeep>
+  <maxPyramidEntries>50</maxPyramidEntries>
+  <limitOrderFillType>PL</limitOrderFillType>
+  <marketOrderSlippage>0.0</marketOrderSlippage>
+  <defaultTradeSizeType>FU</defaultTradeSizeType>
+  <tradeSizeFixedAmount>1</tradeSizeFixedAmount>
+  <tradeSizeDollarAmount>10000.0</tradeSizeDollarAmount>
+  <timezone>E</timezone>
+  <volumeUse>TV</volumeUse>
+  <generation>20</generation>
+  <population>200</population>
+  <barBuilding>SH</barBuilding>
+  <maxBarsBack>250</maxBarsBack>
+  <chartSession>Regular Session</chartSession>
+  <mutationRate>0.05</mutationRate>
+  <crossoverRate>0.9</crossoverRate>
+  <stressTestSize>1</stressTestSize>
+  <fitnessFunction>NPDD</fitnessFunction>
+  <includeCommission>false</includeCommission>
+  <slippageMultiplier>0</slippageMultiplier>
+  <stressTestIncrement>10</stressTestIncrement>
+  <earlyExitGenerations>10</earlyExitGenerations>
+  <highPrecisionTesting>false</highPrecisionTesting>
+  <backtestingResolutionMin>5</backtestingResolutionMin>
+  <task_type>WFO_RETEST</task_type>
+  <stage>Walk-Forward Optimization</stage>
+  <startDate>2017-09-13</startDate>
+  <endDate>2024-05-27</endDate>
+  <oos_percent>20</oos_percent>
+<task_id>3fe2cc90-4847-42b7-ad14-5b3168b9df25</task_id>
+  <strategy_name>!DoubleEMA</strategy_name>
+  <platform>TradeStation</platform>
+  <parameters><iFastMAPeriod>
+  <value>25</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iFastMAPeriod>
+<iSlowMAPeriod>
+  <value>60</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iSlowMAPeriod>
+<iStoploss>
+  <value>500</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iStoploss>
+<iDailyMaxTrades>
+  <value>1.0</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iDailyMaxTrades>
+<iStrategyName>
+  <value>DoubleEMA1</value>
+  <param_type>FixedString</param_type>
+  <data_type>string</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iStrategyName>
+</parameters>
+  <data_streams/>
+  <run>9</run>
+  <is_start_date>2017-09-17</is_start_date>
+  <is_end_date>2023-01-23</is_end_date>
+  <os_start_date>2023-01-24</os_start_date>
+  <os_end_date>2024-05-26</os_end_date>
+</Job>
+<Job>
+  <Id>f2ccd6f0-bfde-4409-908e-2d9b56d7d1d2</Id>
+  <WorkflowId>51cab38c-ada6-404b-ae01-8ea43cb5bd50</WorkflowId>
+  <TaskKey>task_4</TaskKey>
+  <Symbol>@ES</Symbol>
+  <Timeframe>60</Timeframe>
+  <filename>f2ccd6f0-bfde-4409-908e-2d9b56d7d1d2_@ES_60_WFO.job</filename>
+  <Version>1</Version>
+  <pyramidMode>N</pyramidMode>
+  <interestRate>2.0</interestRate>
+  <slippageType>FPCS</slippageType>
+  <enableIOGLIBB>true</enableIOGLIBB>
+  <minFillTrades>5.0</minFillTrades>
+  <minFillVolume>5000.0</minFillVolume>
+  <commissionType>FPCS</commissionType>
+  <initialCapital>100000</initialCapital>
+  <maxPositionSize>65000</maxPositionSize>
+  <noOfTestsToKeep>500</noOfTestsToKeep>
+  <maxPyramidEntries>50</maxPyramidEntries>
+  <limitOrderFillType>PL</limitOrderFillType>
+  <marketOrderSlippage>0.0</marketOrderSlippage>
+  <defaultTradeSizeType>FU</defaultTradeSizeType>
+  <tradeSizeFixedAmount>1</tradeSizeFixedAmount>
+  <tradeSizeDollarAmount>10000.0</tradeSizeDollarAmount>
+  <timezone>E</timezone>
+  <volumeUse>TV</volumeUse>
+  <generation>20</generation>
+  <population>200</population>
+  <barBuilding>SH</barBuilding>
+  <maxBarsBack>250</maxBarsBack>
+  <chartSession>Regular Session</chartSession>
+  <mutationRate>0.05</mutationRate>
+  <crossoverRate>0.9</crossoverRate>
+  <stressTestSize>1</stressTestSize>
+  <fitnessFunction>NPDD</fitnessFunction>
+  <includeCommission>false</includeCommission>
+  <slippageMultiplier>0</slippageMultiplier>
+  <stressTestIncrement>10</stressTestIncrement>
+  <earlyExitGenerations>10</earlyExitGenerations>
+  <highPrecisionTesting>false</highPrecisionTesting>
+  <backtestingResolutionMin>5</backtestingResolutionMin>
+  <task_type>WFO_RETEST</task_type>
+  <stage>Walk-Forward Optimization</stage>
+  <startDate>2019-01-15</startDate>
+  <endDate>2025-09-24</endDate>
+  <oos_percent>20</oos_percent>
+<task_id>3fe2cc90-4847-42b7-ad14-5b3168b9df25</task_id>
+  <strategy_name>!DoubleEMA</strategy_name>
+  <platform>TradeStation</platform>
+  <parameters><iFastMAPeriod>
+  <value>10</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iFastMAPeriod>
+<iSlowMAPeriod>
+  <value>55</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iSlowMAPeriod>
+<iStoploss>
+  <value>350</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iStoploss>
+<iDailyMaxTrades>
+  <value>1.0</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iDailyMaxTrades>
+<iStrategyName>
+  <value>DoubleEMA1</value>
+  <param_type>FixedString</param_type>
+  <data_type>string</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iStrategyName>
+</parameters>
+  <data_streams/>
+  <run>10</run>
+  <is_start_date>2019-01-19</is_start_date>
+  <is_end_date>2024-05-26</is_end_date>
+  <os_start_date>2024-05-27</os_start_date>
+  <os_end_date>2025-09-23</os_end_date>
+</Job>
+<Job>
+  <Id>f2ccd6f0-bfde-4409-908e-2d9b56d7d1d2</Id>
+  <WorkflowId>51cab38c-ada6-404b-ae01-8ea43cb5bd50</WorkflowId>
+  <TaskKey>task_4</TaskKey>
+  <Symbol>@ES</Symbol>
+  <Timeframe>60</Timeframe>
+  <filename>f2ccd6f0-bfde-4409-908e-2d9b56d7d1d2_@ES_60_WFO.job</filename>
+  <Version>1</Version>
+  <pyramidMode>N</pyramidMode>
+  <interestRate>2.0</interestRate>
+  <slippageType>FPCS</slippageType>
+  <enableIOGLIBB>true</enableIOGLIBB>
+  <minFillTrades>5.0</minFillTrades>
+  <minFillVolume>5000.0</minFillVolume>
+  <commissionType>FPCS</commissionType>
+  <initialCapital>100000</initialCapital>
+  <maxPositionSize>65000</maxPositionSize>
+  <noOfTestsToKeep>500</noOfTestsToKeep>
+  <maxPyramidEntries>50</maxPyramidEntries>
+  <limitOrderFillType>PL</limitOrderFillType>
+  <marketOrderSlippage>0.0</marketOrderSlippage>
+  <defaultTradeSizeType>FU</defaultTradeSizeType>
+  <tradeSizeFixedAmount>1</tradeSizeFixedAmount>
+  <tradeSizeDollarAmount>10000.0</tradeSizeDollarAmount>
+  <timezone>E</timezone>
+  <volumeUse>TV</volumeUse>
+  <generation>20</generation>
+  <population>200</population>
+  <barBuilding>SH</barBuilding>
+  <maxBarsBack>250</maxBarsBack>
+  <chartSession>Regular Session</chartSession>
+  <mutationRate>0.05</mutationRate>
+  <crossoverRate>0.9</crossoverRate>
+  <stressTestSize>1</stressTestSize>
+  <fitnessFunction>NPDD</fitnessFunction>
+  <includeCommission>false</includeCommission>
+  <slippageMultiplier>0</slippageMultiplier>
+  <stressTestIncrement>10</stressTestIncrement>
+  <earlyExitGenerations>10</earlyExitGenerations>
+  <highPrecisionTesting>false</highPrecisionTesting>
+  <backtestingResolutionMin>5</backtestingResolutionMin>
+  <task_type>WFO_RETEST</task_type>
+  <stage>Walk-Forward Optimization</stage>
+  <startDate>2020-05-14</startDate>
+  <endDate>2025-09-27</endDate>
+  <oos_percent>0.0</oos_percent>
+<task_id>3fe2cc90-4847-42b7-ad14-5b3168b9df25</task_id>
+  <strategy_name>!DoubleEMA</strategy_name>
+  <platform>TradeStation</platform>
+  <parameters><iFastMAPeriod>
+  <value>10</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iFastMAPeriod>
+<iSlowMAPeriod>
+  <value>55</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iSlowMAPeriod>
+<iStoploss>
+  <value>350</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iStoploss>
+<iDailyMaxTrades>
+  <value>1.0</value>
+  <param_type>Fixed</param_type>
+  <data_type>number</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iDailyMaxTrades>
+<iStrategyName>
+  <value>DoubleEMA1</value>
+  <param_type>FixedString</param_type>
+  <data_type>string</data_type>
+  <optimizable_ind>false</optimizable_ind>
+</iStrategyName>
+</parameters>
+  <data_streams/>
+  <run>11</run>
+  <is_start_date>2020-05-18</is_start_date>
+  <is_end_date>2025-09-23</is_end_date>
+</Job>
+</root>
